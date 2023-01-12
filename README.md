@@ -4,5 +4,5 @@ This repository holds my programming projects done during the period of stanCode
 
 ## Project Source Codes:
 [babygraphics](https://github.com/peggymay2/stanCode_SC101/tree/main/stanCode_SC101/babygraphics)
-[anagram]()
-[boggle]
+[anagram](https://github.com/peggymay2/stanCode_SC101/tree/main/stanCode_SC101/anagram)
+[boggle](https://github.com/peggymay2/stanCode_SC101/tree/main/stanCode_SC101/boggle)
